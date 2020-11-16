@@ -4,7 +4,6 @@
 
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: To work on my backend development skills!
-- ⚡ Fun fact: I love to draw and play guitar / drums
 
 ### Connect with me:
 
