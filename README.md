@@ -2,10 +2,10 @@
 
 ## I'm a Developer and Teacher!!
 
-- 👯 I’m looking to collaborate with other content creators!
-- 🥅 2020 Goals: To work on my backend development & React skills!
-- ⌛ Trying everyday to write better more maintainable code!
-- 📖 I love to learn new things, I'm always up for a challenge!
+- 👯  I’m looking to collaborate with other content creators!
+- 🥅  2020 Goals: To work on my backend development & React skills!
+- ⌛  Trying everyday to write better more maintainable code!
+- 📖  I love to learn new things, I'm always up for a challenge!
 
 ### Connect with me:
 
