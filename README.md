@@ -2,7 +2,7 @@
 
 ## I'm a Developer and Teacher!!
    
-- 👯  I’m looking to collaborate with other content creators!
+- 👯  I’m looking to collaborate with other devs!
 - 🥅  2021 Goals: To work on my backend development & React skills!
 - ⌛  Trying everyday to write better more maintainable code!
 - 📖  I love to learn new things, I'm always up for a challenge!
