@@ -3,9 +3,9 @@
 ## I'm a Developer and Teacher!!
    
 - 👯  I’m looking to collaborate with other devs!
-- 🥅  2021 Goals: To work on my backend development & React skills!
+- 🥅  2022 Goals: To improve on my algorithm/problem solving skills!
 - ⌛  Trying everyday to write better more maintainable code!
-- 📖  I love to learn new things, I'm always up for a challenge!
+- 📖  I love to learn new things and I'm always up for a challenge!
 
 ### Connect with me: 
  
