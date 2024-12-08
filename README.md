@@ -3,7 +3,7 @@
 ## I'm a Developer and Teacher!!
    
 - 👯  I’m looking to collaborate with other devs!
-- 🥅  2022 Goals: To improve on my algorithm/problem solving skills!
+- 🥅 2025 Goals: To attend meetups, webinars and hackathons to network with like-minded developers as well as contributing more actively to collaborative projects here on Github.
 - ⌛  Trying everyday to write better more maintainable code!
 - 📖  I love to learn new things and I'm always up for a challenge!
 
